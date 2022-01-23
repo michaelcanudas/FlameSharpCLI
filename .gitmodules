@@ -1,0 +1,3 @@
+[submodule "deps/FlameSharp"]
+	path = deps/FlameSharp
+	url = https://github.com/theflamelang/FlameSharp
