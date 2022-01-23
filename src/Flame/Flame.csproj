@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>FlameSharp.CLI</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta2.21617.1" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties flame_1json__JsonSchema="https://json.schemastore.org/lerna.json" /></VisualStudio></ProjectExtensions>
+
+</Project>
